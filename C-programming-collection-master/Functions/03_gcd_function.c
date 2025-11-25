@@ -10,7 +10,7 @@ int gcd(int a, int b) {
 int main() {
     int a, b;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
     
