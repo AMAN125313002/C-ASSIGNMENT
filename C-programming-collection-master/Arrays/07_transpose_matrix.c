@@ -4,7 +4,7 @@ int main() {
     int rows, cols, i, j;
     int matrix[10][10], transpose[10][10];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of rows and columns: ");
     scanf("%d %d", &rows, &cols);
     
