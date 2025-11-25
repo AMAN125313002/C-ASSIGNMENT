@@ -5,7 +5,7 @@ int main() {
     int num, sum = 0, count = 0;
     float average;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     file = fopen("numbers.txt", "r");
     
     if(file == NULL) {
