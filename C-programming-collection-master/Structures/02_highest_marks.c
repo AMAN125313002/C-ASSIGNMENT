@@ -10,7 +10,7 @@ int main() {
     int n, i, max_index = 0;
     struct Student students[100];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of students: ");
     scanf("%d", &n);
     
