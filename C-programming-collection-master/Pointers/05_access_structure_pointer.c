@@ -10,7 +10,7 @@ int main() {
     struct Student s, *ptr;
     ptr = &s;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter roll number: ");
     scanf("%d", &ptr->roll);
     printf("Enter name: ");
