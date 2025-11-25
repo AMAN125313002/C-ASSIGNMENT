@@ -3,7 +3,7 @@
 int main() {
     int year;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter a year: ");
     scanf("%d", &year);
     
