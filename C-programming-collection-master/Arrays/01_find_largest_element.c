@@ -4,7 +4,7 @@ int main() {
     int n, i, largest;
     int arr[100];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of elements: ");
     scanf("%d", &n);
     
