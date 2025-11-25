@@ -10,7 +10,7 @@ int main() {
     int n, i;
     struct Book books[100];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of books: ");
     scanf("%d", &n);
     
