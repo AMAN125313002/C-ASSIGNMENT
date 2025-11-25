@@ -1,6 +1,6 @@
 01_find_largest_element.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 5
 Enter array elements: 10 45 23 67 12
 Largest element = 67
@@ -9,7 +9,7 @@ Largest element = 67
 
 02_average_and_sum.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 4
 Enter array elements: 10 20 30 40
 Sum = 100
@@ -19,7 +19,7 @@ Average = 25.00
 
 03_bubble_sort.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 5
 Enter array elements: 64 34 25 12 22
 Sorted array: 12 22 25 34 64
@@ -28,7 +28,7 @@ Sorted array: 12 22 25 34 64
 
 04_count_frequency.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 6
 Enter array elements: 1 2 2 3 3 3
 Frequency of elements:
@@ -40,7 +40,7 @@ Frequency of elements:
 
 05_merge_arrays.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter size of first array: 3
 Enter first array elements: 1 2 3
 Enter size of second array: 3
@@ -51,7 +51,7 @@ Merged array: 1 2 3 4 5 6
 
 06_add_matrices.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of rows and columns: 2 2
 Enter first matrix:
 1 2
@@ -67,7 +67,7 @@ Sum of matrices:
 
 07_transpose_matrix.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of rows and columns: 2 3
 Enter matrix:
 1 2 3
@@ -81,7 +81,7 @@ Transpose of matrix:
 
 08_sum_diagonals.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter size of square matrix: 3
 Enter matrix:
 1 2 3
@@ -94,7 +94,7 @@ Secondary diagonal sum = 15
 
 09_factorial.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 5
 Factorial of 5 = 120
 
@@ -102,6 +102,7 @@ Factorial of 5 = 120
 
 09_check_palindrome.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 12321
 12321 is a palindrome
+
