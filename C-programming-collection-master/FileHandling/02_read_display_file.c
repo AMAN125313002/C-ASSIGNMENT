@@ -4,7 +4,7 @@ int main() {
     FILE *file;
     char ch;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     file = fopen("output.txt", "r");
     
     if(file == NULL) {
