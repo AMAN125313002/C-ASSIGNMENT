@@ -1,6 +1,6 @@
 01_check_prime.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 17
 17 is prime
 
@@ -8,7 +8,7 @@ Enter a number: 17
 
 02_factorial_recursion.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 6
 Factorial of 6 = 720
 
@@ -16,7 +16,7 @@ Factorial of 6 = 720
 
 03_gcd_function.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter two numbers: 48 36
 GCD of 48 and 36 = 12
 
@@ -24,7 +24,7 @@ GCD of 48 and 36 = 12
 
 04_reverse_integer.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 12345
 Reverse of 12345 = 54321
 
@@ -32,7 +32,7 @@ Reverse of 12345 = 54321
 
 05_sum_digits_recursion.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 12345
 Sum of digits of 12345 = 15
 
@@ -40,7 +40,7 @@ Sum of digits of 12345 = 15
 
 06_palindrome_string.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a string: racecar
 racecar is a palindrome
 
@@ -48,7 +48,7 @@ racecar is a palindrome
 
 08_array_average.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 5
 Enter array elements: 10 20 30 40 50
 Average = 30.00
@@ -57,9 +57,10 @@ Average = 30.00
 
 09_call_by_value_reference.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Before function calls: x = 5, y = 10
 Inside callByValue: a = 15, b = 20
 After callByValue: x = 5, y = 10
 Inside callByReference: a = 15, b = 20
 After callByReference: x = 15, y = 20
+
