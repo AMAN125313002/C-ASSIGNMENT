@@ -5,7 +5,7 @@ int main() {
     char ch;
     int chars = 0, words = 0, lines = 0;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     file = fopen("output.txt", "r");
     
     if(file == NULL) {
