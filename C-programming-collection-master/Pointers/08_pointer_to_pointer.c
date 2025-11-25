@@ -5,7 +5,7 @@ int main() {
     int *ptr1 = &num;
     int **ptr2 = &ptr1;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Value of num = %d\n", num);
     printf("Value using ptr1 = %d\n", *ptr1);
     printf("Value using ptr2 = %d\n", **ptr2);
