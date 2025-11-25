@@ -4,7 +4,7 @@ int main() {
     int n, i, j, main_diag = 0, sec_diag = 0;
     int matrix[10][10];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter size of square matrix: ");
     scanf("%d", &n);
     
