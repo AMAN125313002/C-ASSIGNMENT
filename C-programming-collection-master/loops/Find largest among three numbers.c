@@ -3,7 +3,7 @@
 int main() {
     int a, b, c;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter three numbers: ");
     scanf("%d %d %d", &a, &b, &c);
     
