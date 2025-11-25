@@ -18,7 +18,7 @@ int isPalindrome(char str[]) {
 int main() {
     char str[100];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter a string: ");
     scanf("%s", str);
     
