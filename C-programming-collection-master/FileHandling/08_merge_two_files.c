@@ -4,7 +4,7 @@ int main() {
     FILE *file1, *file2, *merged;
     char ch;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     file1 = fopen("file1.txt", "r");
     file2 = fopen("file2.txt", "r");
     merged = fopen("merged.txt", "w");
