@@ -23,7 +23,7 @@ int main() {
     int rows, cols, i, j;
     int mat1[10][10], mat2[10][10], sum[10][10];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of rows and columns: ");
     scanf("%d %d", &rows, &cols);
     
