@@ -3,7 +3,7 @@
 int main() {
     int num, reverse = 0, remainder;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter a number: ");
     scanf("%d", &num);
     
