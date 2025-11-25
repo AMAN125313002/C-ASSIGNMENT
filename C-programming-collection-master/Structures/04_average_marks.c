@@ -11,7 +11,7 @@ int main() {
     float total = 0, average;
     struct Student students[100];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of students: ");
     scanf("%d", &n);
     
