@@ -5,7 +5,7 @@ int main() {
     char *ptr;
     int length = 0;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter a string: ");
     scanf("%s", str);
     
