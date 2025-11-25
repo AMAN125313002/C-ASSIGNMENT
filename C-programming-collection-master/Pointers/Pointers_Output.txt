@@ -1,6 +1,6 @@
 01_swap_numbers.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter two numbers: 10 20
 Before swap: x = 10, y = 20
 After swap: x = 20, y = 10
@@ -9,7 +9,7 @@ After swap: x = 20, y = 10
 
 02_sum_array_elements.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 5
 Enter array elements: 10 20 30 40 50
 Sum = 150
@@ -18,7 +18,7 @@ Sum = 150
 
 03_string_length.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a string: hello
 Length of string = 5
 
@@ -26,7 +26,7 @@ Length of string = 5
 
 04_copy_string.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a string: programming
 Original string: programming
 Copied string: programming
@@ -35,21 +35,21 @@ Copied string: programming
 
 05_access_structure_pointer.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter roll number: 101
-Enter name: Siddharth Koshav
+Enter name: AMAN MISHRA
 Enter marks: 95.5
 
 Student Details:
 Roll: 101
-Name: Siddharth Koshav
+Name: AMAN MISHRA
 Marks: 95.50
 
 ---
 
 06_largest_smallest.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 5
 Enter array elements: 45 23 67 12 89
 Largest = 89
@@ -59,7 +59,7 @@ Smallest = 12
 
 07_traverse_array.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter number of elements: 5
 Enter array elements: 10 20 30 40 50
 Array elements: 10 20 30 40 50
@@ -68,10 +68,11 @@ Array elements: 10 20 30 40 50
 
 08_pointer_to_pointer.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Value of num = 10
 Value using ptr1 = 10
 Value using ptr2 = 10
 Address of num = 0x7ffc8b5c5a2c
 Address stored in ptr1 = 0x7ffc8b5c5a2c
 Address stored in ptr2 = 0x7ffc8b5c5a30
+
