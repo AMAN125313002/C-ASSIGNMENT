@@ -5,7 +5,7 @@ int main() {
     int arr[100];
     int *ptr;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter number of elements: ");
     scanf("%d", &n);
     
