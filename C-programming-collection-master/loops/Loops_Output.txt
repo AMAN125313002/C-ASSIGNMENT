@@ -1,6 +1,6 @@
 check leap year.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a year: 2020
 2020 is a leap year
 
@@ -8,7 +8,7 @@ Enter a year: 2020
 
 Check_whether_number_is_even_or_odd.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 10
 10 is even number
 
@@ -16,7 +16,7 @@ Enter a number: 10
 
 Find largest among three numbers.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter three numbers: 10 25 15
 Largest number is 25
 
@@ -24,7 +24,7 @@ Largest number is 25
 
 Menu-driven calculator using switch-case.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 1. Addition
 2. Subtraction
 3. Multiplication
@@ -38,7 +38,7 @@ Result: 30
 
 multiplication table using loop.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 5
 Multiplication table of 5:
 5 * 1 = 5
@@ -56,7 +56,7 @@ Multiplication table of 5:
 
 Reverse a number using do-while loop.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 12345
 Reversed number: 54321
 
@@ -64,7 +64,7 @@ Reversed number: 54321
 
 sum of natural numbers using for loop.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 10
 Sum of natural numbers from 1 to 10 = 55
 
@@ -72,7 +72,7 @@ Sum of natural numbers from 1 to 10 = 55
 
 09_factorial.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 5
 Factorial of 5 = 120
 
@@ -80,6 +80,7 @@ Factorial of 5 = 120
 
 09_check_palindrome.c
 
-Siddharth Koshav - 125113006
+AMAN MISHRA - 125313002
 Enter a number: 12321
 12321 is a palindrome
+
