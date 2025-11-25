@@ -11,7 +11,7 @@ int main() {
     struct Student s;
     int choice;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     
     printf("1. Store student record\n");
     printf("2. Retrieve student records\n");
