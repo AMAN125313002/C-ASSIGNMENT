@@ -15,7 +15,7 @@ void callByReference(int *a, int *b) {
 int main() {
     int x = 5, y = 10;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Before function calls: x = %d, y = %d\n", x, y);
     
     callByValue(x, y);
