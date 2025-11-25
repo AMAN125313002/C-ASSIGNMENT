@@ -9,7 +9,7 @@ void swap(int *a, int *b) {
 int main() {
     int x, y;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter two numbers: ");
     scanf("%d %d", &x, &y);
     
