@@ -4,7 +4,7 @@ int main() {
     int n1, n2, i, j;
     int arr1[100], arr2[100], merged[200];
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter size of first array: ");
     scanf("%d", &n1);
     printf("Enter first array elements: ");
