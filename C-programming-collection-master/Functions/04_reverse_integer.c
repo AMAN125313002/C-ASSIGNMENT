@@ -13,7 +13,7 @@ int reverse(int n) {
 int main() {
     int num;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter a number: ");
     scanf("%d", &num);
     
