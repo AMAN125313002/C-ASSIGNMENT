@@ -4,7 +4,7 @@ int main() {
     int choice;
     float num1, num2, result;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     
     do {
         printf("\nCalculator Menu:\n");
