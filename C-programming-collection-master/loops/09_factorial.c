@@ -4,7 +4,7 @@ int main() {
     int n, i;
     long long fact = 1;
     
-    printf("Siddharth Koshav - 125113006\n");
+    printf("AMAN MISHRA - 125313002\n");
     printf("Enter a number: ");
     scanf("%d", &n);
     
